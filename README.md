@@ -33,12 +33,10 @@ The dashboard includes the following analyses:
    - Bar chart showing total revenue per category.
 2. **Monthly Sales Trends**
    - Line chart with sales per month, showing seasonal trends.
-3. **Yearly Sales Overview**
-   - Bar chart with total sales per year.
-4. **Gender-wise Spending**
+3. **Gender-wise Spending**
    - Pie chart showing proportion of spending between male and female customers.
 5. **Customer Age Distribution**
-   - Histogram and boxplot showing age distribution of customers.
+   - Histogram showing age distribution of customers.
 
 All visualizations are designed for clarity and easy interpretation.
 
