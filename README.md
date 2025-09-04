@@ -45,7 +45,7 @@ All visualizations are designed for clarity and easy interpretation.
 ---
 
 ## Technology Stack
-- Python 3.x  
+- Python   
 - Libraries: `pandas`, `matplotlib` 
 - Export formats: PNG
 
