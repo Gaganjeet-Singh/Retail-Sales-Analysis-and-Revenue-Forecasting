@@ -1,0 +1,26 @@
+Key Insights – Sales Dashboard Project
+
+1. Monthly Sales Trends:
+   - The monthly sales follow a fluctuating trend, with peak sales observed in months like Mar 2023 and Nov 2023.
+   - Seasonal patterns are visible, indicating higher sales during certain months (e.g., holiday season).
+
+2. Yearly Sales Overview:
+   - Total sales increased consistently across the year(s) under study, showing business growth.
+   - 2023 contributed the majority of revenue in the dataset.
+
+3. Product Category Performance:
+   - Electronics and Clothing generate the highest total revenue.
+   - Beauty products contribute less in terms of total sales, suggesting potential for marketing focus.
+
+4. Gender-wise Spending:
+   - Female customers account for a slightly higher proportion of total spending compared to male customers.
+   - This insight can help target promotions or loyalty programs effectively.
+
+5. Customer Age Distribution:
+   - Most customers fall within the 25-40 age range.
+   - There are occasional older and younger buyers, indicating a fairly diverse age demographic.
+
+6. Overall Business Insights:
+   - The business shows strong sales performance in peak months and through key product categories.
+   - Marketing and inventory strategies can be optimized based on high-revenue categories and active customer demographics.
+   - Visualizations provide a clear understanding of trends, helping in strategic decision-making.
